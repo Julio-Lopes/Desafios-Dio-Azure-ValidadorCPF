@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Validador_CPF": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7220",
+      "launchBrowser": false
+    }
+  }
+}
